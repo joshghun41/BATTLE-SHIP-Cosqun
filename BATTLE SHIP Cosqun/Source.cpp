@@ -26,7 +26,7 @@ void main() {
 				cout  << Gemininolcusu << " -lu  GEMI  " << endl;
 
 				int cordination = 0;
-				cout << "Kordinat reqemini daxil edin: ";
+				cout << "Kordinasyani  daxil edin: ";
 				cin >> cordination;
 
 
