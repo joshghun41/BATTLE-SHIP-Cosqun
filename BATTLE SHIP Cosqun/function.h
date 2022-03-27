@@ -552,12 +552,12 @@ void Basla() {
 
 			int cordination = 0;
 			rengideyis(6, 0);
-			cout << "Kordinasiya reqemini daxil edin : ";
+			cout << "Kordinasiya - NI DAXIL EDIN  : ";
 			cin >> cordination;
 
 			char letter = 0;
 			rengideyis(7, 0);
-			cout << "Kordinasiya herifini daxil edin : ";
+			cout << " ";
 			cin >> letter;
 
 			Vurulmusgemi1(oyun, oyun_reqib, cordination, letter, vurulub);
