@@ -31,7 +31,7 @@ void main() {
 
 
 				char letter = ' ';
-				cout << "Kordinat herifini daxil edin : ";
+				cout << " ";
 				cin >> letter;
 
 				char direction = _getch();
